@@ -1,2 +1,2 @@
 # hello-world
-First repository lesson; IST 402
+This is my first repository lesson in IST 402!
