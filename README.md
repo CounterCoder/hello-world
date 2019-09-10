@@ -1,4 +1,2 @@
 # hello-world
-First repository lesson; IST 402
-
-I am an IST student at Penn State.
+First repository lesson in IST 402
